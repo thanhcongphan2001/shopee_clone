@@ -65,7 +65,7 @@ export default function Login() {
             <form className='rounded bg-white p-10 shadow-sm' onSubmit={onSubmit} noValidate>
               <div className='text-2xl'>Đăng nhập</div>
               <div className='mt-2'>
-                <p className="text-gray-600">Email:thanhcongphan2001gmail.com</p>
+                <p className="text-gray-600">Email:thanhcongphan2001@gmail.com</p>
                 <p className="mt-2 text-gray-600">Pass:123456</p>
               </div>
               <Input
